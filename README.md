@@ -1,2 +1,2 @@
-# Linguagem C++.
+# C++.
 Diversos problemas resolvidos usando a linguagem C++.
