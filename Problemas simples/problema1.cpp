@@ -1,4 +1,6 @@
-//Retorna a produção média de acordo com número de funcionários que trabalharam e o quanto produziram.
+/*Retorna a produção média de acordo com número de funcionários que trabalharam e o quanto produziram.
+A entrada é composta pelo número de funcionários, seguido de uma lista com o número de suas produções 
+e depois uma lista de 1 ou 0 que determina se o funcionário trabalhou ou não no dia.*/ 
 
 #include <iostream>
 #include <iomanip>
