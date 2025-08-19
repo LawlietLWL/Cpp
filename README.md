@@ -1,2 +1,2 @@
 # C++
-Diversos problemas resolvidos usando a linguagem C++.
+Projetos, problemas resolvidos usando a linguagem C++.
